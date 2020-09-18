@@ -344,8 +344,6 @@ right: 15px;
 
     #pagelink1 {
     text-decoration: none;
-    padding-top: 10px;  
-    
     display: block;
     line-height: 14px;
     color: #3c3c3c;
@@ -353,7 +351,10 @@ right: 15px;
     
     }
     
-
+    #pagelink1:hover {
+         color: #0f49ef;
+        
+        }
     
     
     
