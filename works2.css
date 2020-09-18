@@ -334,7 +334,6 @@ header {
     #textright p a {
         font-size: 14px;
         color: #222;
-        float: right;
         text-decoration: none;
         padding-top: 5px;
     }
@@ -357,7 +356,6 @@ header {
     #pagelink1 {
     text-decoration: none;
     width: 85%;    
-    text-align: center;
     display: block;
     line-height: 14px;
     color: #3c3c3c;
