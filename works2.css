@@ -355,7 +355,7 @@ header {
     }
     #pagelink1 {
     text-decoration: none;
-    width: 85%;    
+        
     display: block;
     line-height: 14px;
     color: #3c3c3c;
@@ -381,7 +381,7 @@ header {
     
     
     #pagelink1:hover::after {
-        width: 100%;
+        width: 66%;
         
     }
 
